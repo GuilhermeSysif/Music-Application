@@ -4,7 +4,7 @@
 
 >  The page is an application of a music application.
 
-Check the Application: 
+Check the Application: https://music-application.vercel.app/ 
 ## 📁 Pages
 
 The project has only one page:
